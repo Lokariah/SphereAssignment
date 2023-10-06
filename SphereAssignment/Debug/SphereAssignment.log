@@ -1,0 +1,10 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SphereAssignment.cpp
+D:\Caitlynn\Documents\UniWork\Masters\SphereAssignment\SphereAssignment\CCircle.h(22,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Caitlynn\Documents\UniWork\Masters\SphereAssignment\SphereAssignment\SphereAssignment.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
+D:\Caitlynn\Documents\UniWork\Masters\SphereAssignment\SphereAssignment\SphereAssignment.cpp(153,20): warning C4018: '<': signed/unsigned mismatch
+D:\Caitlynn\Documents\UniWork\Masters\SphereAssignment\SphereAssignment\SphereAssignment.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+D:\Caitlynn\Documents\UniWork\Masters\SphereAssignment\SphereAssignment\SphereAssignment.cpp(173,11): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\Caitlynn\Documents\UniWork\Masters\SphereAssignment\SphereAssignment\SphereAssignment.cpp(318,20): warning C4018: '<': signed/unsigned mismatch
+  SphereAssignment.vcxproj -> D:\Caitlynn\Documents\UniWork\Masters\SphereAssignment\SphereAssignment\SphereAssignmentDebug.exe
+  Copying DLLs & shaders...
